@@ -1,7 +1,7 @@
 MailEnable Archiever Tool for Windows.
 ============
 
-At the moment preparing initial version of tool.
+At the moment preparing initial version of tool, now you can <a href='#'>download from here</a> the binary files, while I do prepare codes for github :)
 
 CHANGES
 ============
